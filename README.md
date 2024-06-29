@@ -3,9 +3,10 @@
 I'm a Full Stack Web Developer passionate about building web applications and learning new technologies.
 
 ## 🛠 Skills
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: HTML, CSS, JavaScript
 - **Frameworks**: Node.js, Express, React
 - **Databases**: PostgreSQL
+- **Design**: Bootstrap, Talwind
 
 ## 🚀 Projects
 - [Portfolio site](https://salmansiddiquii.github.io/Salman_Siddiqui/)
