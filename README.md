@@ -1,4 +1,4 @@
-# Hi, I'm Salman Siddiqui! 👋
+# Hi, I'm Salman Siddiqui! 
 
 I'm a Full Stack Web Developer passionate about building web applications and learning new technologies.
 
