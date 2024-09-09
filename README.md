@@ -11,6 +11,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 ## 🚀 Projects
 - [Portfolio site](https://salmansiddiquii.github.io/Salman_Siddiqui/)
 - [Drum Kit](https://salmansiddiquii.github.io/Drum.Kit/)
+- [Rock paper Scissor](https://salmansiddiquii.github.io/stunning-octo-succotash/)
 
 ## 📫 Contact
 - **Email**: siddiquisalman52204@gmail.com
