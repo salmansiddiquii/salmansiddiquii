@@ -18,3 +18,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 - **Email**: siddiquisalman52204@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/salman-siddiqui-ab9380255/
 - **Twitter**: https://x.com/SalmanS20772880
+
+![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmansiddiquii&show_icons=true&theme=radical)
+
+
