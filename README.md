@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 
 ## 🚀 Projects
 - [Portfolio site](https://github.com/salmansiddiquii/techwithms/)
-- [Drum Kit](https://salmansiddiquii.github.io/Drum.Kit/)
+- [Drum Kit](https://github.com/salmansiddiquii/Drum.Kit/)
 - [Rock paper Scissor](https://salmansiddiquii.github.io/stunning-octo-succotash/)
 - [Simon Game](https://salmansiddiquii.github.io/Simon-Game/)
 
