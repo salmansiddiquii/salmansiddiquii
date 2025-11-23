@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer passionate about building web applications and le
 - **Design**: Bootstrap, Talwind
 
 ## 🚀 Projects
-- [Portfolio site](https://salmansiddiquii.github.io/Salman_Siddiqui/)
+- [Portfolio site](https://github.com/salmansiddiquii/techwithms/)
 - [Drum Kit](https://salmansiddiquii.github.io/Drum.Kit/)
 - [Rock paper Scissor](https://salmansiddiquii.github.io/stunning-octo-succotash/)
 - [Simon Game](https://salmansiddiquii.github.io/Simon-Game/)
